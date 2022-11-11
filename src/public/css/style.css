@@ -6,7 +6,16 @@
     border: 1px solid green;
 }
 
-.login-left {
+.inner-div {    
+    margin: 14%;
+    width: 95%;
+}
+
+div {
+    justify-content: center;
+}
+
+/* .login-left {
     background-image: url("../images/background.jpg");
     background-position: center center;
     background-repeat: no-repeat;
@@ -15,4 +24,4 @@
     opacity: 0.9;
     height: 600px;
     border-radius: 3px;
-}
+} */
